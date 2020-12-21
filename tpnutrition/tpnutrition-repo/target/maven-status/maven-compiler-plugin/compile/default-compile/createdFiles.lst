@@ -1,0 +1,3 @@
+com\epita\tp\nutrition\repository\CSVCharging.class
+com\epita\tp\nutrition\repository\HibernateUtils.class
+com\epita\tp\nutrition\repository\AlimentsRepositoryImpl.class
